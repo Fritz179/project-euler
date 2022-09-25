@@ -37,4 +37,3 @@ echo "let answer = 0" >> "./main.js"
 echo "" >> "./main.js"
 echo "console.log(\`Answer: \${answer}\`)" >> "./main.js"
 echo "Challenge $name created!"
-exit
